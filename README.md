@@ -1,1 +1,1 @@
-# PKC.2023
+# Data science course 40 days.
